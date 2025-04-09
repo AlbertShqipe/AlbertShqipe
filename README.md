@@ -1,5 +1,47 @@
-- 👋 Hi, I’m Albert
-- 👀 I’m interested in any type of creative process
-- 🌱 I’m currently working as a freelance fullstack Rails programmer, performing at Lyon Opera House and working on different side projects.
-- 💞️ You can check my projects and if you are up for it, let's do something together.
-- 📫 If you want to reach out contanct me.  
+# Albert Nikolli – Developer Portfolio
+
+Welcome to my personal portfolio — a place where I share my journey from professional dancer to full-stack web developer. This site showcases the projects I've built for real clients across the arts, wellness, hospitality, and event industries.
+
+## 👋 About Me
+
+I'm **Albert Nikolli**, originally from Albania, raised in Italy, and currently based in Lyon, France. For the past decade, I've performed as a professional dancer across Europe — including at the Opéra de Lyon, Tiroler Landestheater, and Hamburg Youth Ballet.
+
+Alongside my artistic career, I pursued academic studies in economics and marketing, and more recently, transitioned into the world of code. I completed the **Le Wagon bootcamp** in 2024 and have been working as a **freelance web developer** ever since — building real tools for real people.
+
+## 🛠 What’s Inside
+
+This portfolio highlights:
+
+- 🌐 **Client Projects**  
+  Including web apps and showcase sites for competitions, choreographers, cafés, wellness practitioners, and beauty tech businesses.
+
+- 💼 **Tech Stack & Skills**  
+  Ruby on Rails · HTML · CSS (SCSS) · JavaScript · PostgreSQL · Git · Heroku
+
+## 🚀 Technologies
+
+- **Languages:** Ruby, JavaScript, HTML, CSS/SCSS
+- **Frameworks:** Ruby on Rails, Bootstrap
+- **Database:** PostgreSQL
+- **Tools:** Git, GitHub, Heroku, VS Code
+
+## 🎯 Goals
+
+As a developer, I focus on:
+
+- Building useful tools for artists and entrepreneurs
+- Making technology accessible and elegant
+- Continuing to learn, improve, and collaborate
+
+## 📬 Contact
+
+You can find me at:
+
+- **GitHub:** [AlbertShqipe](https://github.com/AlbertShqipe)  
+- **Website:** [Portfolio](https://www.albertnikolli.com)
+- **LinkedIn** [LinkedIn](https://www.linkedin.com/in/albert-nikolli-b81554301/)
+- **Email:** albert_nikolli@icloud.com
+- **Location:** Lyon, France  
+---
+
+Thanks for visiting my portfolio — I hope you enjoy exploring my work!
